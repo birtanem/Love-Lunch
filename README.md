@@ -31,4 +31,6 @@
 
 ### 회의
 
-주간 리뷰를 진행하여 작업 방향을 결정하고 작업물에 대한 리뷰를 진행함.
+주간 리뷰를 진행하여 작업 방향을 결정하고 작업물에 대한 리뷰를 진행함.    
+    [240124_회의](https://github.com/birtanem/Love-Lunch/wiki/240124_%ED%9A%8C%EC%9D%98)          
+    [240130_회의](https://github.com/birtanem/Love-Lunch/wiki/240130_%EB%A6%AC%EB%B7%B0)
